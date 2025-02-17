@@ -1,0 +1,34 @@
+.btn{
+    justify-content: center;
+    display: flex;
+    gap:20px;
+    margin: 201px 10px 30px;
+
+    
+}
+#cd{
+    justify-content: center;
+    display: flex;
+    margin-top: -15px;
+}
+#btn12{
+    background-color: rgb(14, 14, 15);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+#btn21{
+    background-color:rgb(18, 213, 31);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.cp{
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    overflow: hidden;
+    white-space:remove;
+    
+}
